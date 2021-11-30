@@ -4,7 +4,7 @@
 int main()
 {
     printf("County Library\n");
-    printf("Welcome Mr. Kelvin");
+    printf("Welcome Mrs. Kerol");
     printf("What would like to do\n");
     printf("1. View user\n");
     printf("2. Add new user\n");
